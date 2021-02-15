@@ -1,0 +1,60 @@
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #9fb8ad;
+}
+
+body {
+  color: #383e56;
+  text-align: center;
+  font-family: 'Reggae One', cursive;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 5.625em;
+}
+
+.top-cloud {
+  position: relative;
+  left: 220px;
+}
+
+.buttom-cloud {
+  position: absolute;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  padding: 30px 0 20px 0;
+  max-width: 20%;
+  height: auto;
+}
+
+.pc-pic {
+  border-radius: 50px;
+  padding: 20px 0 20px 0;
+  max-width: 15%;
+  height: auto;
+}
+
+.manager {
+  padding: 20px 0 20px 0;
+  max-width: 15%;
+  height: auto;
+}
+
+.linkedin {
+  max-width: 3%;
+  height: auto;
+  margin-bottom: 10
+}
+.facebook {
+  max-width: 3%;
+  height: auto;
+  margin-bottom: 10
+}
+
+.copyrights {
+  margin: 0;
+}
